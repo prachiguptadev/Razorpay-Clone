@@ -37,3 +37,9 @@
   box-shadow: 0px 2px 24px rgb(0 0 0 / 40%);
   transition: all 200ms ease-in-out;
 }
+
+.coreFeaturesBg {
+  background-size: 100% 100%;
+  padding-top: 12rem;
+  padding-bottom: 12rem;
+}
