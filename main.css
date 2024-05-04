@@ -39,9 +39,17 @@
 }
 
 .coreFeaturesBg {
-  background-size: 100% 100%;
-  padding-top: 12rem;
-  padding-bottom: 12rem;
+  background-size: 2000px 100%;
+  padding-top: 20rem;
+  padding-bottom: 20rem;
+}
+
+@media screen and (min-width: 1000px) {
+  .coreFeaturesBg {
+    background-size: 100% 100%;
+    padding-top: 12rem;
+    padding-bottom: 12rem;
+  }
 }
 
 .compniesList {
@@ -57,6 +65,26 @@
   }
 }
 
-.CTASection {
-  background-size: 100% 100%;
+
+
+.ctaBg {
+  background-size: 200% 100%;
+}
+
+.ctaSection {
+  min-height: 880px;
+}
+
+@media screen and (min-width: 1024px) {
+  .ctaBg {
+    background-size: 100% 100%;
+  }
+
+  .ctaSection {
+    min-height: 530px;
+  }
+}
+
+.newFeatureCard {
+  box-shadow: 2px 4px 9px 1px hsla(0, 0%, 0%, 0.05);
 }
