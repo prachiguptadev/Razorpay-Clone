@@ -14,20 +14,21 @@ And I face many challenges while making UI. This project helped me learn various
 * [Technologies Used🛠️](#my-third-title)
 * [Installation🪜](#my-fourth-title)
 
-## Demo🌐
+##  <a name="my-first-title">Demo🌐</a>
 You can see a live demo of this project **[Visit now](https://razorpay-clone100.netlify.app/) 🚀**
 
-## Features🌟
+## <a name="my-second-title">Features🌟</a>
 * **Responsive Design:** The clone is designed to be fully responsive and looks great on various screen sizes, including desktop, tablet, and mobile devices.
 
 * **Tailwind CSS:** Utilizes the Tailwind CSS framework for styling, ensuring a clean and modern design.
 
-## Technologies Used🛠️
+## <a name="my-third-title">Technologies Used🛠️</a>
+
 
 * HTML
 * Tailwind CSS
 
-## Installation🪜
+## <a name="my-fourth-title">Installation🪜</a>
 
 To run this project locally, follow these steps:
 
